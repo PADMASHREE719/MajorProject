@@ -1,0 +1,18 @@
+project/
+│
+├── server/
+│   ├── database.py
+│   ├── server.py
+│   ├── spoof_detection.py
+│   ├── verify_utils.py
+│   ├── dataset.csv   ← optional
+│
+├── vehicle/
+│   ├── crypto_utils.py
+│   ├── generate_keys.py
+│   ├── gps_module.py
+│   ├── vehicle.py
+│
+├── shared/
+│
+└── requirements.txt
